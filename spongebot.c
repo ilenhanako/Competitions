@@ -13,7 +13,7 @@ void setup()
   initmotors();  
   initdipswitch();
   
-  //tablebot();
+  //tablebot(); /// test1
   //blackboardbot();
   //birdbot();
   
