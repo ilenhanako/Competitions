@@ -1,3 +1,3 @@
-# Competitions:
-1) IDE Maker 2017 
-2) SCSE 2021
+# IDE Maker 2017
+Created a table cleaning robot that resembles a car
+3rd Placing - Junior Category
